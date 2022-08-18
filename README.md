@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Codemy10
 - 👀 I’m interested in web development
-- 🌱 I’m currently the back end web
+- 🌱 I’m currently a front end web developer
 - 💞️ I’m looking to collaborate on web development generally
 - 📫 How to reach me:
 GitHub:@codemy10
