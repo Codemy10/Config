@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahmon
 - 🌱 I’m currently a front end web developer
-- 💞️ I’m looking to collaborate on web development generally
+- 💞️ I’m looking forward to collaborating on web development generally
 - 📫 How to reach me:
 GitHub:@codemy10
 Instagram:@codemy10/horlamidey_beyioku
